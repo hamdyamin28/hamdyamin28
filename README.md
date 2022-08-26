@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hamdyamin28
 - 👀 I’m interested in full stack
-- 🌱 I’m currently learning bacl end 
+- 🌱 I’m currently learning backend 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
