@@ -18,5 +18,5 @@
 
 ## 📫 How to reach me  
 - **Email:** Hamdyamin28123@gmail.com  
-- **LinkedIn:** [linkedin.com/in/hamdyamin](www.linkedin.com/in/hamdy-amin-a0054028b)  
-- **GitHub:** [github.com/hamdyamin28](https://github.com/hamdyamin2)  
+- **LinkedIn:** [www.linkedin.com/in/hamdy-amin-a0054028b](www.linkedin.com/in/hamdy-amin-a0054028b)  
+- **GitHub:** [github.com/hamdyamin28](https://github.com/hamdyamin28)  
