@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @hamdyamin28
-- 👀 I’m interested in full stack
-- 🌱 I’m currently learning backend 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Hamdy Amin  
 
-<!---
-hamdyamin28/hamdyamin28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Front-End Developer** passionate about building responsive and user-friendly web applications.  
+🚀 Skilled in **HTML, CSS, JavaScript, Bootstrap** and learning **React.js**.  
+🎯 Focused on delivering clean and optimized code.  
+
+---
+
+## 🛠 Skills  
+- HTML5, CSS3, JavaScript (ES6+)  
+- Bootstrap, Responsive Design  
+- Git & GitHub  
+---
+
+## 📂 Projects  
+- [🌐 Green Power Website](Greenpower-eg.com) – Responsive agricultural products company website.  
+---
+
+## 📫 How to reach me  
+- **Email:** Hamdyamin28123@gmail.com  
+- **LinkedIn:** [linkedin.com/in/hamdyamin](www.linkedin.com/in/hamdy-amin-a0054028b)  
+- **GitHub:** [github.com/hamdyamin28](https://github.com/hamdyamin2)  
